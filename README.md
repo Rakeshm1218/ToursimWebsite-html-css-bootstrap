@@ -7,5 +7,5 @@ Welcome to Tourism website, a static site built using HTML, CSS, and Bootstrap. 
 
 - **HTML5**: For the structure of the website.
 - **CSS3**: For styling and layout.
-- **Bootstrap 4**: For responsive design and components.
+- **Bootstrap 4**: For  components.
 
